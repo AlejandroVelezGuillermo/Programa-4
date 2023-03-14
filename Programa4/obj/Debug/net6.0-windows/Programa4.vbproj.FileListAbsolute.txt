@@ -1,0 +1,17 @@
+C:\Users\soned\Videos\programas vs\Programa4\bin\Debug\net6.0-windows\Programa4.exe
+C:\Users\soned\Videos\programas vs\Programa4\bin\Debug\net6.0-windows\Programa4.deps.json
+C:\Users\soned\Videos\programas vs\Programa4\bin\Debug\net6.0-windows\Programa4.runtimeconfig.json
+C:\Users\soned\Videos\programas vs\Programa4\bin\Debug\net6.0-windows\Programa4.dll
+C:\Users\soned\Videos\programas vs\Programa4\bin\Debug\net6.0-windows\Programa4.pdb
+C:\Users\soned\Videos\programas vs\Programa4\obj\Debug\net6.0-windows\Programa4.vbproj.AssemblyReference.cache
+C:\Users\soned\Videos\programas vs\Programa4\obj\Debug\net6.0-windows\Programa4.Form1.resources
+C:\Users\soned\Videos\programas vs\Programa4\obj\Debug\net6.0-windows\Programa4.vbproj.GenerateResource.cache
+C:\Users\soned\Videos\programas vs\Programa4\obj\Debug\net6.0-windows\Programa4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soned\Videos\programas vs\Programa4\obj\Debug\net6.0-windows\Programa4.AssemblyInfoInputs.cache
+C:\Users\soned\Videos\programas vs\Programa4\obj\Debug\net6.0-windows\Programa4.AssemblyInfo.vb
+C:\Users\soned\Videos\programas vs\Programa4\obj\Debug\net6.0-windows\Programa4.vbproj.CoreCompileInputs.cache
+C:\Users\soned\Videos\programas vs\Programa4\obj\Debug\net6.0-windows\Programa4.dll
+C:\Users\soned\Videos\programas vs\Programa4\obj\Debug\net6.0-windows\refint\Programa4.dll
+C:\Users\soned\Videos\programas vs\Programa4\obj\Debug\net6.0-windows\Programa4.pdb
+C:\Users\soned\Videos\programas vs\Programa4\obj\Debug\net6.0-windows\Programa4.genruntimeconfig.cache
+C:\Users\soned\Videos\programas vs\Programa4\obj\Debug\net6.0-windows\ref\Programa4.dll
